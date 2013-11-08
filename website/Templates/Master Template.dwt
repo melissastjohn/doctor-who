@@ -29,88 +29,88 @@
 				<!-- TemplateBeginIf cond="_document['The Doctor Secondary Menu']" -->
 				<table>
 					<tr>
-						<td>The First Doctor</td>
+						<td><a href="../the-doctors/the-first-doctor.html">The First Doctor</a></td>
 					</tr>
 					<tr>
-						<td>The Second Doctor</td>
+						<td><a href="../the-doctors/the-second-doctor.html">The Second Doctor</a></td>
 					</tr>
 					<tr>
-						<td><p>The Third Doctor</p></td>
+						<td><p><a href="../the-doctors/the-third-doctor.html">The Third Doctor</a></p></td>
 					</tr>
 					<tr>
-					  <td>The Fourth Doctor</td>
+					  <td><a href="../the-doctors/the-fourth-doctor.html">The Fourth Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Fifth Doctor</td>
+					  <td><a href="../the-doctors/the-fifth-doctor.html">The Fifth Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Sixth Doctor</td>
+					  <td><a href="../the-doctors/the-sixth-doctor.html">The Sixth Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Seventh Doctor</td>
+					  <td><a href="../the-doctors/the-seventh-doctor.html">The Seventh Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Eighth Doctor</td>
+					  <td><a href="../the-doctors/the-eighth-doctor.html">The Eighth Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Ninth Doctor</td>
+					  <td><a href="../the-doctors/the-ninth-doctor.html">The Ninth Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Tenth Doctor</td>
+					  <td><a href="../the-doctors/the-tenth-doctor.html">The Tenth Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Eleventh Doctor</td>
+					  <td><a href="../the-doctors/the-eleventh-doctor.html">The Eleventh Doctor</a></td>
 				  </tr>
 					<tr>
-					  <td>The Twelfth Doctor</td>
+					  <td><a href="../the-doctors/the-twelfth-doctor.html">The Twelfth Doctor</a></td>
 				  </tr>
 				</table>
 				<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Companions Secondary Menu']" -->
 				<table>
 					<tr>
-						<td>Rose Tyler</td>
+						<td><a href="../companions/rose-tyler.html">Rose Tyler</a></td>
 					</tr>
 					<tr>
-						<td>Amy Pond</td>
+						<td><a href="../companions/amy-pond.html">Amy Pond</a></td>
 					</tr>
 					<tr>
-					  <td>Martha Jones</td>
+					  <td><a href="../companions/martha-jones.html">Martha Jones</a></td>
 				  </tr>
 					<tr>
-					  <td>Jack Harkness</td>
+					  <td><a href="../companions/jack-harkness.html">Jack Harkness</a></td>
 				  </tr>
 					<tr>
-					  <td>Lady Christina de Souza</td>
+					  <td><a href="../companions/lady-christina-de-souza.html">Lady Christina de Souza</a></td>
 				  </tr>
 					<tr>
-					  <td>Rory Williams</td>
+					  <td><a href="../companions/rory-williams.html">Rory Williams</a></td>
 				  </tr>
 					<tr>
-					  <td>River Song</td>
+					  <td><a href="../companions/river-song.html">River Song</a></td>
 				  </tr>
 					<tr>
-					  <td>Clara Oswald</td>
+					  <td><a href="../companions/clara-oswald.html">Clara Oswald</a></td>
 				  </tr>
 				</table>
 				<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Villains Secondary Menu']" -->
 				<table>
 				  <tr>
-				    <td width="104">Daleks</td>
+				    <td width="104"><a href="../villains/daleks.html">Daleks</a></td>
 				    </tr>
 				  <tr>
-				    <td>Cybermen</td>
+				    <td><a href="../villains/cybermen.html">Cybermen</a></td>
 				    </tr>
 				  <tr>
-				    <td>The Master</td>
+				    <td><a href="../villains/the-master.html">The Master</a></td>
 				    </tr>
 				  <tr>
-				    <td>Lady Cassandra</td>
+				    <td><a href="../villains/lady-cassandra.html">Lady Cassandra</a></td>
 				    </tr>
 				  <tr>
-				    <td>Davros</td>
+				    <td><a href="../villains/davros.html">Davros</a></td>
 				    </tr>
 				  <tr>
-				    <td>Weeping Angel</td>
+				    <td><a href="../villains/weeping-angel.html">Weeping Angel</a></td>
 				    </tr>
 				  </table>
 				<!-- TemplateEndIf -->
