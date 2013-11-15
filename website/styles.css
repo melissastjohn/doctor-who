@@ -1,9 +1,4 @@
-p {
-	border: 10px solid #D695EE;
-	padding-top: 25px;
-	padding-right: 25px;
-	padding-bottom: 25px;
-	padding-left: 35px;
-	margin: 25px;
-	display: inline;
-}
+.doctor-who-content img
+	{
+		float: left;
+	}

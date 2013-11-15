@@ -10,6 +10,7 @@
 <!-- TemplateParam name="The Doctor Secondary Menu" type="boolean" value="false" -->
 <!-- TemplateParam name="Companions Secondary Menu" type="boolean" value="false" -->
 <!-- TemplateParam name="Villains Secondary Menu" type="boolean" value="true" -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -20,7 +21,7 @@
 </td>
 		</tr>
 		<tr>
-			<td colspan="2">[Banner]</td>
+			<td colspan="2"><!-- TemplateBeginEditable name="Banner" -->[Banner]<!-- TemplateEndEditable --></td>
 		</tr>
 		<tr>
 			<td>
@@ -115,8 +116,15 @@
 				  </table>
 				<!-- TemplateEndIf -->
 				<p>&nbsp;</p>
+			
 			</td>
-			<td><!-- TemplateBeginEditable name="Content Area" -->[Content]<!-- TemplateEndEditable --></td>
+		
+		<td>
+			<div class="doctor-who-content">
+				<!-- TemplateBeginEditable name="Content Area" -->[Content]<!-- TemplateEndEditable -->
+			</div>
+		</td>
+		
 		</tr>
 	</table>
 </body>
