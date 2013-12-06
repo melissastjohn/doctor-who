@@ -25,7 +25,7 @@
 				<td colspan="2"><!-- TemplateBeginEditable name="Banner" -->[Banner]<!-- TemplateEndEditable --></td>
 			</tr>
 			<tr>
-				<td><!-- TemplateBeginIf cond="_document['The Doctor Secondary Menu']" -->
+				<td class="secondary"><!-- TemplateBeginIf cond="_document['The Doctor Secondary Menu']" -->
 					<table>
 						<tr>
 							<td><a href="../the-doctors/the-first-doctor.html">The First Doctor</a></td>

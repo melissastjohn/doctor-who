@@ -32,3 +32,6 @@ body table tr td {
 	margin-right: auto;
 	margin-left: auto;
 }
+.secondary td {
+	white-space: nowrap;
+}
